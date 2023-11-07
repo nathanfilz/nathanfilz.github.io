@@ -1,5 +1,6 @@
 - [2020-3-24](2020-03-24.markdown)
 - [2023-05-27](2023-05-27.markdown)
+- [2023-11-07](2023-11-07.markdown)
 
 ## Welcome to GitHub Pages
 
